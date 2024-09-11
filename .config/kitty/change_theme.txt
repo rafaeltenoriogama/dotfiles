@@ -1,0 +1,10 @@
+# Hello, dear Rafael!
+
+If you wanna change that theme, you can follow these commands right here:
+
+cd ~/.config/kitty
+ln -s ./kitty-themes/themes/{your_theme_right_here}.conf ~/.config/kitty/theme.conf
+
+ln -s ./kitty-themes/themes/{your_theme_right_here}.conf ~/.config/kitty/theme.conf
+
+Here is the link: https://github.com/dexpota/kitty-themes
