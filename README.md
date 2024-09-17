@@ -1,6 +1,6 @@
 ![Screen_page](./imgs/dotfiles.png)
 
-# Personal Rafael Tenorio dotfiles
+# Rafael Tenorio dotfiles
 
 **Warning**: Don’t blindly use my settings unless you know what that entails. Use at your own risk!
 
@@ -15,6 +15,12 @@ Check out my Software Engineer Study Blog on [tumblr](https://heart-ghost-studyb
 - Tmux config
 - Git config
 - Fish config
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vim,bash,bash&perline=14" />
+  </a>
+</p>
 
 ## Neovim setup
 
